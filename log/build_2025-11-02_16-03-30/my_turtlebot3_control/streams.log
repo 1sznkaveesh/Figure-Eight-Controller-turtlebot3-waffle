@@ -1,0 +1,17 @@
+[0.883s] Invoking command in '/home/kaveesh/turtlebot3_ws/build/my_turtlebot3_control': PYTHONPATH=/home/kaveesh/turtlebot3_ws/build/my_turtlebot3_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaveesh/turtlebot3_ws/install/my_turtlebot3_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kaveesh/turtlebot3_ws/build/my_turtlebot3_control/build --no-deps symlink_data
+[1.120s] running develop
+[1.241s] running egg_info
+[1.241s] writing my_turtlebot3_control.egg-info/PKG-INFO
+[1.241s] writing dependency_links to my_turtlebot3_control.egg-info/dependency_links.txt
+[1.241s] writing entry points to my_turtlebot3_control.egg-info/entry_points.txt
+[1.241s] writing requirements to my_turtlebot3_control.egg-info/requires.txt
+[1.242s] writing top-level names to my_turtlebot3_control.egg-info/top_level.txt
+[1.242s] reading manifest file 'my_turtlebot3_control.egg-info/SOURCES.txt'
+[1.243s] writing manifest file 'my_turtlebot3_control.egg-info/SOURCES.txt'
+[1.243s] running build_ext
+[1.243s] Creating /home/kaveesh/turtlebot3_ws/install/my_turtlebot3_control/lib/python3.10/site-packages/my-turtlebot3-control.egg-link (link to .)
+[1.244s] Installing figure_eight_controller script to /home/kaveesh/turtlebot3_ws/install/my_turtlebot3_control/lib/my_turtlebot3_control
+[1.244s] 
+[1.244s] Installed /home/kaveesh/turtlebot3_ws/build/my_turtlebot3_control
+[1.245s] running symlink_data
+[1.274s] Invoked command in '/home/kaveesh/turtlebot3_ws/build/my_turtlebot3_control' returned '0': PYTHONPATH=/home/kaveesh/turtlebot3_ws/build/my_turtlebot3_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kaveesh/turtlebot3_ws/install/my_turtlebot3_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/kaveesh/turtlebot3_ws/build/my_turtlebot3_control/build --no-deps symlink_data

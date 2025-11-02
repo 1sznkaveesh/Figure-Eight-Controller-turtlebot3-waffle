@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating my_turtlebot3_control.egg-info
+writing my_turtlebot3_control.egg-info/PKG-INFO
+writing dependency_links to my_turtlebot3_control.egg-info/dependency_links.txt
+writing entry points to my_turtlebot3_control.egg-info/entry_points.txt
+writing requirements to my_turtlebot3_control.egg-info/requires.txt
+writing top-level names to my_turtlebot3_control.egg-info/top_level.txt
+writing manifest file 'my_turtlebot3_control.egg-info/SOURCES.txt'
+reading manifest file 'my_turtlebot3_control.egg-info/SOURCES.txt'
+writing manifest file 'my_turtlebot3_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/kaveesh/turtlebot3_ws/install/my_turtlebot3_control/lib/python3.10/site-packages/my-turtlebot3-control.egg-link (link to .)
+
+Installed /home/kaveesh/turtlebot3_ws/build/my_turtlebot3_control
+running symlink_data
+creating /home/kaveesh/turtlebot3_ws/install/my_turtlebot3_control/share/ament_index
+creating /home/kaveesh/turtlebot3_ws/install/my_turtlebot3_control/share/ament_index/resource_index
+creating /home/kaveesh/turtlebot3_ws/install/my_turtlebot3_control/share/ament_index/resource_index/packages
+symbolically linking /home/kaveesh/turtlebot3_ws/build/my_turtlebot3_control/resource/my_turtlebot3_control -> /home/kaveesh/turtlebot3_ws/install/my_turtlebot3_control/share/ament_index/resource_index/packages
+symbolically linking /home/kaveesh/turtlebot3_ws/build/my_turtlebot3_control/package.xml -> /home/kaveesh/turtlebot3_ws/install/my_turtlebot3_control/share/my_turtlebot3_control

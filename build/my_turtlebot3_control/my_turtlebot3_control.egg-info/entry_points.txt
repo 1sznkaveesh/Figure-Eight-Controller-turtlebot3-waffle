@@ -1,0 +1,3 @@
+[console_scripts]
+figure_eight_controller = my_turtlebot3_control.figure_eight_controller:main
+

@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+my_turtlebot3_control/__init__.py
+my_turtlebot3_control/figure_eight_controller.py
+my_turtlebot3_control.egg-info/PKG-INFO
+my_turtlebot3_control.egg-info/SOURCES.txt
+my_turtlebot3_control.egg-info/dependency_links.txt
+my_turtlebot3_control.egg-info/entry_points.txt
+my_turtlebot3_control.egg-info/requires.txt
+my_turtlebot3_control.egg-info/top_level.txt
+my_turtlebot3_control.egg-info/zip-safe
+resource/my_turtlebot3_control
