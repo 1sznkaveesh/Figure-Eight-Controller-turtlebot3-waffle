@@ -1,16 +1,16 @@
 # TurtleBot3 Figure-Eight Controller 
----
+
 # Features
 - Autonomous figure-eight path follower
 - Continous path mapping , always returns to same path if placed anywhere else
 - Manual keyboard control mode ( velocity , direction )
 - Real-time velocity publishing to /cmd_vel
 - Works with TurtleBot3 Waffle and Waffle Pi models
----
+
 # Requirements 
 - ROS2 Humble
 - Gazebo classic
----
+
 ## Getting Started
 
 
