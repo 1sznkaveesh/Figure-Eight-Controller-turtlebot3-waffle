@@ -16,7 +16,7 @@
 
 ### 1. Clone this repository
 ```bash
-cd turtlebot3_ws/src
+cd turtlebot3_ws
 ```
 
 ### 2. Build the package
@@ -48,3 +48,5 @@ ros2 launch turtlebot3_gazebo empty_world.launch.py
 ```bash
 ros2 run my_turtlebot3_control figure_eight_controller
 ```
+
+## https://youtu.be/bYBqdi3iudY
