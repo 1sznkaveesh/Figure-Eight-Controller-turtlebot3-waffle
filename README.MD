@@ -14,9 +14,9 @@
 ## Getting Started
 
 
-### 1. Clone this repository
+### 1. Clone this repository and open directory
 ```bash
-cd turtlebot3_ws
+cd ~/turtlebot3_ws
 ```
 
 ### 2. Build the package
@@ -29,9 +29,11 @@ colcon build
 ```bash
 source install/setup.bash
 ```
-
 ```bash
 source /opt/ros/humble/setup.bash
+```
+```bash
+source ~/turtlebot3_ws/install/setup.bash
 ```
 
 ### 4. Launch the robot in Gazebo
